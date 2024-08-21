@@ -20,9 +20,7 @@ To run this application, you will need Python installed on your system, along wi
 
 1. Clone the repository:
    
-   git clone https://github.com/SumitRodrigues/TSP-Algo.git
-   
-   cd TSP-Algo
+   git clone Link
 
 
 3. Install the required packages:
@@ -66,8 +64,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
 
-Your Name - sumitrod11@gmail.com
-
-Project Link: https://github.com/SumitRodrigues/TSP-Algo.git
